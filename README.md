@@ -3,6 +3,11 @@
 ## Description
 This README file shows how to set up a virtual machine using Vagrant.
 
+## Requirements
+
+* VirtualBox
+* Vagrant
+
 ## Instructiions
 
 * Download VirtualBox.
